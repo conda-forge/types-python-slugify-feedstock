@@ -1,5 +1,5 @@
 {% set name = "types-python-slugify" %}
-{% set version = "0.1.2" %}
+{% set version = "5.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-python-slugify-{{ version }}.tar.gz
-  sha256: 77829d8e47b22aea89fbc028076fa69e20387e09f755b281f1faf2ee3cb61915
+  sha256: 5c574967549f34213a89515a733d8886e41c305c1f0d1f663551429688c5aa70
 
 build:
   number: 0
